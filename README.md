@@ -67,6 +67,7 @@
 - 谭中意（tanzhongyi003）
 - 乔  梁（qiaoliang)
 - 庄表伟（zhuangbiaowei）
+- 徐晓强 (JustinTsui)
 
 
 企业参与者：
