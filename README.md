@@ -66,6 +66,8 @@
 个人参与者： 
 - 谭中意（tanzhongyi003）
 - 乔  梁（qiaoliang)
+- 庄表伟（zhuangbiaowei）
+
 
 企业参与者：
 - Baidu
