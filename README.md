@@ -68,7 +68,7 @@
 - 乔  梁（qiaoliang)
 - 庄表伟（zhuangbiaowei）
 - 徐晓强 (JustinTsui)
-
+- 李  辉 (lambert0312)
 
 企业参与者：
 - Baidu
