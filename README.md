@@ -64,12 +64,12 @@
 
 ##  参与者：
 个人参与者： 
-  谭中意（tanzhongyi003）
+- 谭中意（tanzhongyi003）
 
 企业参与者：
-  Baidu
-  Tencent
-  Alibaba
+- Baidu
+- Tencent
+- Alibaba
 
 &gt; “让 AI 成为每个人的编程伙伴。”  
 &gt; —— AI 编程社区
