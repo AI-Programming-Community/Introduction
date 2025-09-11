@@ -77,5 +77,9 @@
 - Alibaba
 - 智码酷达AitoCoder
 
+组织参与者：
+- COPU（China OpenSource Promotion Union）
+- OpenTekr
+
 &gt; “让 AI 成为每个人的编程伙伴。”  
 &gt; —— AI 编程社区
