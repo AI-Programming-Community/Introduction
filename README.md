@@ -46,6 +46,7 @@
 
 - 📂 主仓库：[https://github.com/AI-Programming-Community](https://github.com/AI-Programming-Community)  
 - 💬 微信群：扫码加入（见下方二维码）
+<img src="wechat-group.jpg" alt="微信群二维码" width="200" height="400"/>
 
 ---
 
