@@ -69,11 +69,13 @@
 - 庄表伟（zhuangbiaowei）
 - 徐晓强 (JustinTsui)
 - 李  辉 (lambert0312)
+- 狄安 （Dean）
 
 企业参与者：
 - Baidu
 - Tencent
 - Alibaba
+- 智码酷达AitoCoder
 
 &gt; “让 AI 成为每个人的编程伙伴。”  
 &gt; —— AI 编程社区
