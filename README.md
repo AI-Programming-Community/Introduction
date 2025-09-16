@@ -72,13 +72,15 @@
 - 李  辉 (lambert0312)
 - 狄安 （Dean）
 - 王蕴博 （wbtiger）
-
+- 吴穹 （adwu73）
+  
 企业参与者：
 - Baidu
 - Tencent
 - Alibaba
 - 智码酷达AitoCoder
-
+- Agilean爱捷软件
+  
 组织参与者：
 - COPU（China OpenSource Promotion Union）
 - OpenTekr
